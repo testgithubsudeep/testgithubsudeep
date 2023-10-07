@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ziauddinmir_86" target="blank"><img src="https://img.shields.io/twitter/follow/ziauddinmir_86?logo=twitter&style=for-the-badge" alt="ziauddinmir_86" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System** **Centurion Mentoring App**
+- 🔭 I’m currently working on **Hospital Management System** , **Centurion Mentoring App**
 
 - 🌱 I’m currently learning **Spring Boot,ReactJS,etc**
 
