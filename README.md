@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Spring and ReactJS Project**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sudeep-kumar-nayak-43bb5b199](https://github.com/testgithubsudeep)
+- 👨‍💻 All of my projects are available at [https://github.com/testgithubsudeep](https://github.com/testgithubsudeep)
 
 - 💬 Ask me about **Core Java,Advanced Java,Spring, SpringBoot,HTML,CSS,JavaScript,React JS,My Sql,,**
 
